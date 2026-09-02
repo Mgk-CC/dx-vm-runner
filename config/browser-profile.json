@@ -1,0 +1,47 @@
+{
+  "navigator": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+    "appName": "Netscape",
+    "appVersion": "5.0 (Windows)",
+    "platform": "Win32",
+    "language": "zh-CN",
+    "languages": ["zh-CN", "zh"],
+    "hardwareConcurrency": 12,
+    "deviceMemory": 16,
+    "maxTouchPoints": 0,
+    "cookieEnabled": true
+  },
+  "screen": {
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1080,
+    "colorDepth": 32,
+    "pixelDepth": 32
+  },
+  "window": {
+    "innerWidth": 1920,
+    "innerHeight": 969,
+    "outerWidth": 1920,
+    "outerHeight": 1080,
+    "devicePixelRatio": 1,
+    "screenLeft": 0,
+    "screenTop": 0
+  },
+  "location": {
+    "href": "https://m.sichuanair.com/touch-webapp/flight/flightList/go?fromFlutter=1&adt=1&chd=0&inf=0&departDate=2026-08-14&orgCity=AAT&destCity=TFU&dstCodeType=C&orgCodeType=C&returnDate=2026-08-29&flightType=RETURN",
+    "protocol": "https:",
+    "host": "m.sichuanair.com",
+    "hostname": "m.sichuanair.com",
+    "pathname": "/touch-webapp/flight/flightList/go",
+    "search": "?fromFlutter=1&adt=1&chd=0&inf=0&departDate=2026-08-14&orgCity=AAT&destCity=TFU&dstCodeType=C&orgCodeType=C&returnDate=2026-08-29&flightType=RETURN"
+  },
+  "storage": {
+    "quota": 2684354560,
+    "usage": 0
+  },
+  "timingProfile": {
+    "pageLoadMinMs": 5000,
+    "pageLoadMaxMs": 7000
+  }
+}

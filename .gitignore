@@ -1,0 +1,18 @@
+.worktrees/
+.superpowers/
+node_modules/
+*.tar.gz
+.venv312/
+data/
+__pycache__/
+
+# 凭据与本地配置
+.mcp.json
+.env
+.env.*
+
+# 不对外公开的文件
+package.json
+package-lock.json
+CLAUDE.md
+scratch/
