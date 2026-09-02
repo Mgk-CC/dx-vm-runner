@@ -12,7 +12,5 @@ __pycache__/
 .env.*
 
 # 不对外公开的文件
-package.json
-package-lock.json
 CLAUDE.md
 scratch/
